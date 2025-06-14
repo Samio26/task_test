@@ -5,7 +5,7 @@
         "year": "1992",
         "number": "#1234",
         "progress": "112/158",
-        "image_url": "assets/images/bottle.png",
+        "image_url": "assets/images/bottle.jpeg",
         "video_url": "assets/videos/sample.mp4"
     },
     {
@@ -14,7 +14,7 @@
         "year": "1992",
         "number": "#1234",
         "progress": "112/158",
-        "image_url": "assets/images/bottle.png",
+        "image_url": "assets/images/bottle.jpeg",
         "video_url": "assets/videos/sample.mp4"
     },
     {
@@ -23,7 +23,7 @@
         "year": "1992",
         "number": "#1234",
         "progress": "112/158",
-        "image_url": "assets/images/bottle.png",
+        "image_url": "assets/images/bottle.jpeg",
         "video_url": "assets/videos/sample.mp4"
     },
     {
@@ -32,7 +32,7 @@
         "year": "1992",
         "number": "#1234",
         "progress": "112/158",
-        "image_url": "assets/images/bottle.png",
+        "image_url": "assets/images/bottle.jpeg",
         "video_url": "assets/videos/sample.mp4"
     },
     {
@@ -41,7 +41,7 @@
         "year": "1992",
         "number": "#1234",
         "progress": "112/158",
-        "image_url": "assets/images/bottle.png",
+        "image_url": "assets/images/bottle.jpeg",
         "video_url": "assets/videos/sample.mp4"
     },
     {
@@ -50,7 +50,7 @@
       "year": "1992",
       "number": "#1234",
       "progress": "112/158",
-      "image_url": "assets/images/bottle.png",
+      "image_url": "assets/images/bottle.jpeg",
       "video_url": "assets/videos/sample.mp4"
 
     }

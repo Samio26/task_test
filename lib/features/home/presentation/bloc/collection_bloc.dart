@@ -1,5 +1,6 @@
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
+import 'package:tesstt_task/features/home/domain/entities/bottle.dart';
 import 'package:tesstt_task/features/home/domain/usecases/get_collection_usecase.dart';
 
 part 'collection_event.dart';
