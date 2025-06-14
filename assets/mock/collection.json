@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "name": "Lacost",
+        "year": "1992",
+        "number": "#1234",
+        "progress": "112/158",
+        "image_url": "assets/images/bottle.png",
+        "video_url": "assets/videos/sample.mp4"
+    },
+    {
+        "id": "2",
+        "name": "Addidas",
+        "year": "1992",
+        "number": "#1234",
+        "progress": "112/158",
+        "image_url": "assets/images/bottle.png",
+        "video_url": "assets/videos/sample.mp4"
+    },
+    {
+        "id": "3",
+        "name": "Nike",
+        "year": "1992",
+        "number": "#1234",
+        "progress": "112/158",
+        "image_url": "assets/images/bottle.png",
+        "video_url": "assets/videos/sample.mp4"
+    },
+    {
+        "id": "4",
+        "name": "Zara",
+        "year": "1992",
+        "number": "#1234",
+        "progress": "112/158",
+        "image_url": "assets/images/bottle.png",
+        "video_url": "assets/videos/sample.mp4"
+    },
+    {
+        "id": "5",
+        "name": "Bershka",
+        "year": "1992",
+        "number": "#1234",
+        "progress": "112/158",
+        "image_url": "assets/images/bottle.png",
+        "video_url": "assets/videos/sample.mp4"
+    },
+    {
+      "id": "6",
+      "name": "pull bear",
+      "year": "1992",
+      "number": "#1234",
+      "progress": "112/158",
+      "image_url": "assets/images/bottle.png",
+      "video_url": "assets/videos/sample.mp4"
+
+    }
+  ]
